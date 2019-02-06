@@ -72,4 +72,4 @@ interests = [
 
 +++
 
-Huamin Zhang is a Software Engineer Intern at  Global Energy Interconnection Research Institute North America (GEIRI North America). His research interests include data analysis, machine learning, deep learning, natural language process.
+Huamin Zhang is a Software Engineer Intern at  Global Energy Interconnection Research Institute North America (GEIRI North America). His research interests include data analysis, machine learning, deep learning and natural language process.
