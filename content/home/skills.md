@@ -16,21 +16,21 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "r-project"
+  icon = "code"
   icon_pack = "fab"
-  name = "R"
+  name = "Python, R, SQL"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Data Scientist, Statistics"
+  description = "90%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "brain"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Artificial Intelligence, Machine Learning, Deep Learning, NLP"
+  description = "90%"
 
 +++
