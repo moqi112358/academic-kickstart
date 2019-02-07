@@ -16,7 +16,7 @@ weight = 7
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 
 [[feature]]
-  icon = "code"
+  icon = "database"
   icon_pack = "fab"
   name = "Python, R, SQL"
   description = "90%"
