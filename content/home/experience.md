@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2019-02-05"
   date_end = ""
-  description = """"""
+  description = """
   Perform research projects on the following topics:
   
   * Knowledge graph
