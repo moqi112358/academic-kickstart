@@ -46,7 +46,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = ""  # For a direct email link, use "mailto:test@example.org".
+  link = "mailto:huamin.zhang@geirina.net"  # For a direct email link, use "mailto:test@example.org".
 
 [[social]]
   icon = "twitter"
